@@ -1,5 +1,5 @@
 const BACKEND_ROOT_URL = 'https://to-do-be-poup.onrender.com'
-import { Todos } from "./class/todo.js"
+import { Todos } from "./class/Todo.js"
 
 const todos = new Todos(BACKEND_ROOT_URL)
 
